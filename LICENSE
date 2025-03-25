@@ -1,5 +1,6 @@
 MIT License
 
+<<<<<<< HEAD
 Copyright (c) 2017-2020 Max Woolf
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -25,6 +26,9 @@ SOFTWARE.
 MIT License
 
 Copyright (c) 2017 Bjarke Felbo, Han Thi Nguyen
+=======
+Copyright (c) 2025 Evangelin John
+>>>>>>> 55b4b01fe60e3c013efbc68ae78f1edb8cde44a3
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
